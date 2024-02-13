@@ -21,14 +21,13 @@
     src: url(fonts/Poppins-Regular.ttf) format('truetype');
 }
 
-
-
 body {
+    align-items: center;
+    background: #F2F5F9;
     display: flex;
     flex-direction: row;
-    align-items: center;
+    height: 100vh;
     justify-content: center;
-    background: #F2F5F9;
 }
 
 main>article {
